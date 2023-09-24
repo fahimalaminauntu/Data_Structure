@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << "Testing";
+    cout << "Testing" << endl
+         << "again";
 }
